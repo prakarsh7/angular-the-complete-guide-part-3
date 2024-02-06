@@ -1,0 +1,9 @@
+.assignment-details {
+    border: 1px solid
+}
+
+p {
+    font-weight: bold;
+    font-style: italic;
+    color: cornflowerblue;
+}
